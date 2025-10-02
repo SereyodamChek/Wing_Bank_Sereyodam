@@ -1,0 +1,63 @@
+import 'package:flutter/material.dart';
+import 'package:wing_bank/screen/Logout/Page/options/biil-payment/page/widget/container-item.dart';
+import 'package:wing_bank/theme/colors.dart';
+
+class Utilities extends StatelessWidget {
+  const Utilities({super.key});
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      backgroundColor: BackgroundColor.bgColor,
+      body: GestureDetector(
+        onTap: () {
+          FocusScope.of(context).unfocus();
+        },
+        child: Column(
+          children: [
+            const SizedBox(height: 50),
+            Expanded(
+              flex: 1,
+              child: Column(
+                children: [
+                  Row(
+                    mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                    children: [
+                      IconButton(
+                        icon: const Icon(
+                          Icons.arrow_back,
+                          color: Colors.white,
+                          size: 30,
+                        ),
+                        onPressed: () {
+                          Navigator.pop(context);
+                        },
+                      ),
+                      const Text(
+                        "Utilities",
+                        style: TextStyle(
+                          color: Colors.white,
+                          fontSize: 21,
+                          fontWeight: FontWeight.bold,
+                        ),
+                      ),
+                      IconButton(
+                        icon: const Icon(
+                          Icons.autorenew_rounded,
+                          color: Colors.white,
+                          size: 30,
+                        ),
+                        onPressed: () {},
+                      ),
+                    ],
+                  ),
+                ],
+              ),
+            ),
+            const Expanded(flex: 15, child: ContainerItems()),
+          ],
+        ),
+      ),
+    );
+  }
+}

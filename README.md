@@ -74,7 +74,7 @@ flutter run -d ios
 
 ---
 
-## 🎯 Purpose
+## 🎯 Purposes
 
 * Practice building a **real-world mobile banking UI**
 * Improve **Flutter frontend development skills**

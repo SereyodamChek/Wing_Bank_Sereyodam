@@ -101,7 +101,7 @@ It is **not affiliated with Wing Bank** and does not provide any real banking fu
 
 ## 📫 Contact
 
-* GitHub: [https://github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+* GitHub: [https://github.com/SereyodamChek](https://github.com/SereyodamChek)
 * Email: [sereyodamc011@gmail.com](mailto:sereyodamc011@gmail.com)
 
 ---

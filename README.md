@@ -1,7 +1,8 @@
 # 🏦 Wing Bank Sereyodam – Flutter Banking UI Clone
 <p align="center">
-  <img src="https://www.vivathgolden-financeplc.com.kh/uploads/partner_photo_1709190768.png" width="120" alt="Wing Logo" />
+  <img src="https://camo.githubusercontent.com/7def87d6f549fc9045651139a396dcc969e5786a8b3c3f3b3564927e61bc09a9/68747470733a2f2f69626363616d626f6469612e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30392f4e65772d57696e6742616e6b2d4c6f676f5f477265656e2d323032352e706e67" width="170" height="60" alt="Wing Logo" />
 </p>
+
 ### 👨‍💻 Built by Sereyodam
 
 ---
